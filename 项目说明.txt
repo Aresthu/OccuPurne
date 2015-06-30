@@ -1,0 +1,6 @@
+LsTree1.1 提高了效率，即每个node里带了其supporting transaction
+LsTree1.2 仅仅改变了数据库的读取形式
+LsTree1.3 还未完成，将LsTree1.1和LsTree1.2结合。
+
+LsTree1.3 要解决的问题：
+1. 计算一个集合所有的子集：重写claculateSet, 输入ArrayList<Integer> X；输出X的所有子集，用ArrayList<ArrayList<Integer>> allitemset 存储;
