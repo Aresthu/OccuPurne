@@ -47,7 +47,7 @@ public class MainTestForOcc {
 			System.out.println("-------------------------");
 		}
 		
-		
+		https://github.com/Aresthu/OccuPurne.git
 		//	PHASE 1
 		OccPrune phase1 = new OccPrune();
 		phase1.runAlgorithm(minUtility, vertical, vertical2, vertical3, output1, descendingOrderOfSupport);
