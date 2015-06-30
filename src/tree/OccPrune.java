@@ -16,6 +16,8 @@ import java.util.Set;
 
 public class OccPrune {
 	
+	//added by PC
+	
 	public int tidCount = 0; //tidCount the amount of the Transaction 
 	public int maxItem = 0;
 	public int itemCount = 0;
